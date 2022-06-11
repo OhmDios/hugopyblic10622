@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ohmdios.github.io/hugopyblic10622/posts/my-first-post/</loc>
-    <lastmod>2022-06-10T21:50:44+05:30</lastmod>
-  </url><url>
     <loc>https://ohmdios.github.io/hugopyblic10622/</loc>
-    <lastmod>2022-06-10T21:50:44+05:30</lastmod>
+    <lastmod>2022-06-11T21:06:13+05:30</lastmod>
   </url><url>
     <loc>https://ohmdios.github.io/hugopyblic10622/posts/</loc>
+    <lastmod>2022-06-11T21:06:13+05:30</lastmod>
+  </url><url>
+    <loc>https://ohmdios.github.io/hugopyblic10622/posts/second/</loc>
+    <lastmod>2022-06-11T21:06:13+05:30</lastmod>
+  </url><url>
+    <loc>https://ohmdios.github.io/hugopyblic10622/posts/my-first-post/</loc>
     <lastmod>2022-06-10T21:50:44+05:30</lastmod>
   </url><url>
     <loc>https://ohmdios.github.io/hugopyblic10622/categories/</loc>
